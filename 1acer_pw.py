@@ -7,7 +7,7 @@ from datetime import datetime
 
 START_INDEX = 0      # to resume where left off
 MAX_COUNT = 10       # number of listings to extract
-OUTPUT_CSV = f"1acre_land_details_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
+OUTPUT_CSV = f"acre_land_details_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
 
 # ================= SELECTORS =================
 
