@@ -7,7 +7,7 @@ from requests.exceptions import RequestException
 
 # ================= CONFIG =================
 
-AUTH_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxODAwNDgxMzQzLCJpYXQiOjE3Njg5NDUzNDMsImp0aSI6ImI1ODllODQ2MDI0YjRiMWY4MWI4NTZmMjZhNzcwMzcwIiwidXNlcl9pZCI6MjA4MiwidG9rZW5fdmVyc2lvbiI6MSwiZGV2aWNlX3R5cGUiOiJkZXNrdG9wIiwic2Vzc2lvbl9pZCI6ImVmNDc2NTBmLWE3MTEtNDE5NS05OThlLWVjN2EzZWQ2ZTQ5ZSJ9.9rFgVTqJ8yPDIoIXJU6jEpivittpWbYH_8Mkf1OBXDI"
+AUTH_TOKEN = "PASTE_YOUR_AUTH_TOKEN_HERE"
 
 HEADERS = {
     "Authorization": f"Token {AUTH_TOKEN}",
