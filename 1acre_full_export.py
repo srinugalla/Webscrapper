@@ -20,7 +20,7 @@ LAND_URL = "https://prod-be.1acre.in/lands/"
 CONTACT_URL = "https://prod-be.1acre.in/sellercontacts/"
 
 MAX = 15000
-OUTPUT_FILE = "1acre_full_export.csv"
+OUTPUT_FILE = "acre_full_export.csv"
 
 FIELDS = [
     "land_id",
