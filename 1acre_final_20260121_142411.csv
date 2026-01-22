@@ -1,0 +1,11 @@
+land_id,price_per_acre,total_price,area,area_unit,state,district,mandal,village,latitude,longitude,image_urls,seller_name,seller_type,phone,account_id
+12977,10.0,5000.0,500.0,acres,Karnataka,KALABURAGI,ALAND,YALASANGI,17.3750527525619,76.43431363388237,https://d3mdbtyzqllurv.cloudfront.net/land_images/land_12977_land_1.PNG,Pavan Kalyan m.l.a,agent,,10256
+12976,6.5,650.0,100.0,acres,Karnataka,KALABURAGI,KALAGI,TENGALI,17.256376467226744,77.10547060833049,https://d3mdbtyzqllurv.cloudfront.net/land_images/land_12976_land_1.PNG,Pavan Kalyan m.l.a,agent,,10256
+12975,263.16,200.00160000000002,0.76,cents,Tamil Nadu,Krishnagiri,Shoolagiri,Athimugam,12.75600420134907,77.97118751198725,https://d3mdbtyzqllurv.cloudfront.net/land_images/land_12975_land_1.PNG,Shiva Prasadh,owner,,28982
+12974,260.0,1508.0,5.8,acres,Karnataka,BENGALURU RURAL,DODDABALLAPURA,HULIKUNTE,13.283319234306585,77.35222354150854,https://d3mdbtyzqllurv.cloudfront.net/land_images/land_12974_land_1.PNG,Rakshith,agent,918197418060,28976
+12973,45.0,2250.0,50.0,acres,Telangana,Vikarabad,Dharur,Allapur,17.32667671892229,77.708418635279,https://d3mdbtyzqllurv.cloudfront.net/land_images/land_12973_land_1.jpg,jayareddy linga,owner,919491023366,28975
+12972,53.0,159.0,3.0,acres,Telangana,Sangareddy,Pulkal,Baswapur,17.768137570322068,77.97938094792043,https://d3mdbtyzqllurv.cloudfront.net/land_images/land_12972_land_1.png,Naram Gongesh,agent,,28972
+12971,70.0,1890.0,27.0,acres,Telangana,Sangareddy,Pulkal,Baswapur,17.756523471902277,77.98248905483636,https://d3mdbtyzqllurv.cloudfront.net/land_images/land_12971_land_1.png,Naram Gongesh,agent,,28972
+12970,440.0,660.0,1.5,acres,Karnataka,RAMANAGARA,MAGADI,CHIKKAMUDIGERE,13.01615315978357,77.12242095513545,https://d3mdbtyzqllurv.cloudfront.net/land_images/land_12970_land_1.png,Nishchay R.,owner,,28974
+12969,80.0,800.0,10.0,acres,Telangana,Sangareddy,Kohir,Khanapur,17.593171351516844,77.68265436331485,https://d3mdbtyzqllurv.cloudfront.net/land_images/land_12969_land_1.jpg,Pavan Kalyan m.l.a,agent,,10256
+12968,65.0,352.3,5.42,acres,Telangana,Sangareddy,Pulkal,Pulkal,17.724589829260065,77.98436360827404,https://d3mdbtyzqllurv.cloudfront.net/land_images/land_12968_land_1.png,Naram Gongesh,agent,917674067205,28972
